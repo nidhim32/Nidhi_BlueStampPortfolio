@@ -1,9 +1,8 @@
 # UV Detecting Sunscreen Reminder Hat
 This is a hat that contains a wearable UV sensor which works with Adafruit's FLORA circuit board to give you a reminder on when you should reapply your sunscreen for effecient protection. When you are outside under the sun, the UV sensor is able to detect the when the UV index is greater than the UV threshold. Once this criteria has been hit, the buzzer goes off which is your sign to reapply.
-You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
+
 ```HTML 
-<!--- This is an HTML comment in Markdown -->
-<!--- Anything between these symbols will not render on the published site -->
+
 ```
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
@@ -46,7 +45,7 @@ For your second milestone, explain what you've worked on since your previous mil
 
 
 
-My first milestone was getting my arduino, UV sensor, and buzzer connected on my breadboard. It was able to connect to my computer through a micro-USB cable and send the correct signals to my serial moniter that the UV threshold had been reached or when the buzzer had been sounded.
+My first milestone was getting my arduino, UV sensor, and buzzer connected on my breadboard. They were able to connect to my computer through a micro-USB cable and send the correct signals to my serial moniter that the UV threshold had been reached or when the buzzer had been sounded.
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
