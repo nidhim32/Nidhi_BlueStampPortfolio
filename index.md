@@ -13,7 +13,7 @@ You should comment out all portions of your portfolio that you have not complete
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
 ![Headstone image](headshot.jpeg)
-  
+Hi! My name is Nidhi and I am a rising freshman with an interest in mechanical engineering. This is my first project that I get to share with everyone here at BlueStamp and I have learned so much in the little time that I've been here. There were some challenges I faced throughout this project, however overcoming them was the most rewarding part of the process. 
 # Final Milestone
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
