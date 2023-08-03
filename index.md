@@ -10,7 +10,7 @@ You should comment out all portions of your portfolio that you have not complete
 |:--:|:--:|:--:|:--:|
 | Nidhi M | Dougherty Valley High School | Mechanical Engineering | Incoming Freshman
 
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
+(https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
 ![Headstone image](headshot.jpeg)
 Hi! My name is Nidhi and I am a rising freshman with an interest in mechanical engineering. This is my first project that I get to share with everyone here at BlueStamp and I have learned so much in the little time that I've been here. There were some challenges I faced throughout this project, however overcoming them was the most rewarding part of the process. 
