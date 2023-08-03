@@ -1,6 +1,5 @@
 # UV Detecting Sunscreen Reminder Hat
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
-
+This is a hat that contains a wearable UV sensor which works with Adafruit's FLORA circuit board to give you a reminder on when you should reapply your sunscreen for effecient protection. When you are outside under the sun, the UV sensor is able to detect the when the UV index is greater than the UV threshold. Once this criteria has been hit, the buzzer goes off which is your sign to reapply.
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
 ```HTML 
 <!--- This is an HTML comment in Markdown -->
