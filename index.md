@@ -44,6 +44,8 @@ For your second milestone, explain what you've worked on since your previous mil
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SDwStuIfWPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
+
 My first milestone was getting my arduino, UV sensor, and buzzer connected on my breadboard. It was able to connect to my computer through a micro-USB cable and send the correct signals to my serial moniter that the UV threshold had been reached or when the buzzer had been sounded.
 
 # Schematics 
