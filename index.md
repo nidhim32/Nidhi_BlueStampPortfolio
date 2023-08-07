@@ -76,8 +76,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 | Mini sewing kit | To sew the parts to the hat | $4.59 | <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.amazon.com/SINGER-01927-Travel-Sewing-Assorted/dp/B000YZ6CSA/ref=sr_1_8?crid=WPH9T9NFDGH0" data-iframely-url="//iframely.net/xXyypcr?card=small"></a></div></div><script async src="//iframely.net/embed.js"></script> |
 | Power bank w/ USB | To power the FLORA circuit board | $17.99 | <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.amazon.com/Attom-Tech-Portable-External-Emergency/dp/B07JZCZSH9/ref=sr_1_3?crid=2NQJCXAPTNELJ" data-iframely-url="//iframely.net/qp0GSkG?card=small"></a></div></div><script async src="//iframely.net/embed.js"></script> |
 | Hat | To protect from the sun and used as the base for this project | $7.99 | <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.amazon.com/dp/B0BYMQ4KQ6/ref=twister_B0BYMQ75B7?_encoding=UTF8" data-iframely-url="//iframely.net/JmdGpgV?card=small"></a></div></div><script async src="//iframely.net/embed.js"></script> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+
 
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
