@@ -69,7 +69,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| UV Sensor | To sense the UV | $11.69 | [here]([url]([https://www.amazon.com/Comimark-UVM-30A-Ultraviolet-Detection-Arduino/dp/B07V3PW4R2/ref=sr_1_1?crid=2Q8OCQE12Y2N2&keywords=uv+sensor+arduino&qid=1691435040&sprefix=UV+Sensor%2Caps%2C157&sr=8-1])) |
+| UV Sensor | To sense the UV | $11.69 | <div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.5%; padding-top: 120px;"><a href="https://www.amazon.com/Comimark-UVM-30A-Ultraviolet-Detection-Arduino/dp/B07V3PW4R2/ref=sr_1_1?crid=2Q8OCQE12Y2N2" data-iframely-url="//iframely.net/bP6QAwT"></a></div></div><script async src="//iframely.net/embed.js"></script> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 
